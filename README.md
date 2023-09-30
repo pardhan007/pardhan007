@@ -49,3 +49,14 @@
 <!--  <img alt="Ruby" src="https://img.shields.io/badge/ruby%20-%2300599C.svg?&style=for-the-badge&logo=ruby&logoColor=white"/> -->
 <!--  <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby%20on%20Rails-black?style=for-the-badge&logo=Ruby%20on%20Rails&logoColor=white"/> -->
 <br/>
+
+
+<h3 align="center">Find me here:</h3>
+<p align="center">
+ <a href="https://www.leetcode.com/pardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pardhan/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/pardhan/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/harsh-prajapati-also" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-prajapati-also" height="30" width="40" /></a>
+<!-- <a href="https://medium.com/@guptachaitanya31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@guptachaitanya31" height="30" width="40" /></a>
+<a href="https://twitter.com/Chaitan33456747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Chaitan33456747" height="30" width="40" /></a>
+</p> -->
+
