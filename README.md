@@ -20,10 +20,6 @@
 </a>
 
 <br><br>
-
-
-
-<br><br>
 ## ⚡ Technologies
 
 <p align="center">
